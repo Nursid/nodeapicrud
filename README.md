@@ -1,3 +1,0 @@
-# nodeapicrud
-
-# hello Nursid
